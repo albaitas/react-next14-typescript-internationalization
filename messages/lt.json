@@ -1,0 +1,27 @@
+{
+  "IndexPage": {
+    "title": "Pradinis puslapis",
+    "description": "Sveiki atvykę į Next.js internacionalizavimo (i18n) pavyzdį! Čia demonstruojama App Router pranašumai ir kaip sklandžiai valdyti daugiakalbį turinį naudojant next-intl."
+  },
+  "RoomsPage": {
+    "title": "Kambarių puslapis",
+    "description": "Sveiki atvykę į kambarių puslapį"
+  },
+  "ContactPage": {
+    "title": "Kontaktų puslapis",
+    "description": "Sveiki atvykę į kontaktų puslapį"
+  },
+
+  "NotFoundPage": {
+    "title": "Puslapis nerastas",
+    "description": "Tokio puslapio pavadinimo nėra!"
+  },
+  "Navigation": {
+    "home": "Pradinis",
+    "rooms": "Kambariai",
+    "contact": "Kontaktai"
+  },
+  "Footer": {
+    "copyright": "© 2024 Next App. Visos teisės saugomos."
+  }
+}
